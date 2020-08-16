@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hello! This is Daryl
 
-I'm glad you are here. I plan to talk about ...
+Are you ready?
